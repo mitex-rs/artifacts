@@ -4,11 +4,11 @@ Artifacts of MiTeX, to build MiTeX in standalone mode
 
 ## Branches
 
-- (Unreleased) [`v0.1.1`](https://github.com/mitex-rs/artifacts/tree/v0.1.1)
+- (Unreleased) [`v0.1.1`]
 
 ## Reproduction
 
-### [Default Command Specification](spec/default.rkyv)
+### [Default Command Specification](spec/default.rkyv), Since [`v0.1.1`]
 
 You need to install Typst v0.10.0 for this in repository root of [MiTeX](https://github.com/mitex-rs/mitex)
 
@@ -29,3 +29,5 @@ rustc 1.74.1 (a28077b28 2023-12-04)
 > cargo --version
 cargo 1.74.1 (ecb9851af 2023-10-18)
 ```
+
+[`v0.1.1`]: https://github.com/mitex-rs/artifacts/tree/v0.1.1
