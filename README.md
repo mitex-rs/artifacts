@@ -4,7 +4,8 @@ Artifacts of MiTeX, to build MiTeX in standalone mode
 
 ## Branches
 
-- (Unreleased) [`v0.1.1`]
+- [`v0.1.1`]
+- [`v0.2.2`]
 
 ## Reproduction
 
@@ -31,3 +32,4 @@ cargo 1.74.1 (ecb9851af 2023-10-18)
 ```
 
 [`v0.1.1`]: https://github.com/mitex-rs/artifacts/tree/v0.1.1
+[`v0.2.2`]: https://github.com/mitex-rs/artifacts/tree/v0.2.2
