@@ -24,7 +24,7 @@ To get compacted metadata, run `mitex spec generate`
 The mitex-cli is built with following command:
 
 ```bash
-> cargo build --release --bin mitex-cli
+> cargo build --release --bin mitex
 > rustc --version
 rustc 1.74.1 (a28077b28 2023-12-04)
 > cargo --version
